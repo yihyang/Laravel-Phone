@@ -19,7 +19,7 @@
         "php": ">=7.1",
         "illuminate/support": "^5.5|^6.0",
         "illuminate/validation": "^5.5|^6.0",
-        "giggsey/libphonenumber-for-php": "^7.0|^8.0",
+        "giggsey/libphonenumber-for-php": "^7.0|^8.0|dev-update-sg-phone-number-format",
         "league/iso3166": "^2.0"
     },
     "require-dev": {
